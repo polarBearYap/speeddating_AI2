@@ -1,5 +1,23 @@
 # speeddating_AI2
 
+Author: Yap Jheng Khin
+
+Note that this is the continuation from Part 1, which was done in <a href="https://github.com/polarBearYap/speeddating_AI">here</a>.
+I have also discover many mistakes from part I, and part II will serve as an <b>improvement</b> or postmortem.
+
+List of mistakes that I have made in part I are:
+
+* Preprocess on whole dataset, which cause train-test contamination.</li>
+* Perform cross validation instead of nested cross validation.</li>
+
+My learning expection in Part II are:
+
+* Discover various ways to detect correlated features.
+* Perform feature selection to reduce model complexity.
+* Apply nested cross validation on areas like hyperarameter tuning.
+* Discover XAI techniques that can be used in explaining black box models.
+
+
 ## Source
 * Published by: [Joaquin Vanschoren](https://www.openml.org/u/2) @ 2016 on https://www.openml.org/d/40536
    
