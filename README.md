@@ -4,6 +4,8 @@
 
 Author: Yap Jheng Khin
 
+The notebook is available in https://www.kaggle.com/polarbearyap/speeddating-part-ii
+
 Note that this is the continuation from Part 1, which was done in <a href="https://github.com/polarBearYap/speeddating_AI">here</a>.
 I have also discover many mistakes from part I, and part II will serve as an <b>improvement</b> or postmortem.
 
