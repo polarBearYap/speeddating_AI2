@@ -1,5 +1,7 @@
 # speeddating_AI2
 
+## General
+
 Author: Yap Jheng Khin
 
 Note that this is the continuation from Part 1, which was done in <a href="https://github.com/polarBearYap/speeddating_AI">here</a>.
@@ -16,16 +18,6 @@ My learning expection in Part II are:
 * Perform feature selection to reduce model complexity.
 * Apply nested cross validation on areas like hyperarameter tuning.
 * Discover XAI techniques that can be used in explaining black box models.
-
-
-## Source
-* Published by: [Joaquin Vanschoren](https://www.openml.org/u/2) @ 2016 on https://www.openml.org/d/40536
-   
-* Available at:
-  - [csv, arff](https://www.openml.org/data/get_csv/13153954/speeddating.arff)
-  - [json](https://www.openml.org/d/40536/json)
-  - [xml](https://www.openml.org/api/v1/data/40536)
-  - [rdf](https://www.openml.org/d/40536/rdf)
 
 ## Metadata
 
@@ -85,6 +77,17 @@ There are totally 56 preprocessed features which have undergone the data preproc
     <td>funny, intelligence</td>
   </tr>
 </tbody></table>
+
+## Source of the Dataset
+* Published by: [Joaquin Vanschoren](https://www.openml.org/u/2) @ 2016 on https://www.openml.org/d/40536
+   
+* Available at:
+  - [csv, arff](https://www.openml.org/data/get_csv/13153954/speeddating.arff)
+  - [json](https://www.openml.org/d/40536/json)
+  - [xml](https://www.openml.org/api/v1/data/40536)
+  - [rdf](https://www.openml.org/d/40536/rdf)
+  
+* This dataset is also available at [kaggle](https://www.kaggle.com/polarbearyap/speed-dating)
 
 ## Relevant Paper
    * Raymond Fisman; Sheena S. Iyengar; Emir Kamenica; Itamar Simonson. Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment.
